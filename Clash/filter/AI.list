@@ -3,4 +3,4 @@ DOMAIN,gemini.google.com
 IP-CIDR,172.217.160.78/32,no-resolve
 IP-CIDR,172.217.163.46/32,no-resolve
 #Claude
-DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
