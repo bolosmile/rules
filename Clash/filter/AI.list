@@ -5,4 +5,5 @@ IP-CIDR,172.217.163.46/32,no-resolve
 #Claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
-
+#metaai
+DOMAIN-SUFFIX,meta.ai
